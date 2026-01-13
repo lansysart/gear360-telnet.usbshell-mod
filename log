@@ -1,0 +1,262 @@
+wlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frwlan0     Link encap:Ethernet  HWaddr A4:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+p2p0      Link encap:Ethernet  HWaddr A6:08:EA:84:97:72  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+ssid - hexdump_ascii(len=7):
+     62 75 79 6d 6f 72 65                              buymore         
+PSK (ASCII passphrase) - hexdump_ascii(len=14): [REMOVED]
+PSK (from passphrase) - hexdump(len=32): [REMOVED]
+nl80211: Register frame match - hexdump(len=2): 04 0a
+nl80211: Register frame match - hexdump(len=2): 04 0b
+nl80211: Register frame match - hexdump(len=2): 04 0c
+nl80211: Register frame match - hexdump(len=2): 04 0d
+nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+nl80211: Register frame match - hexdump(len=5): 7f 50 6f 9a 09
+nl80211: Register frame match - hexdump(len=1): 06
+nl80211: Register frame match - hexdump(len=2): 0a 07
+nl80211: Register frame match - hexdump(len=4): 7f 00 00 f0
+WPS: UUID based on MAC address - hexdump(len=16): fb d9 6b 0e ca 36 53 8f 9b b0 97 fe 5f 2a c9
